@@ -84229,7 +84229,7 @@ $S:0}
 A.Ia.prototype={
 R(a){var s=null,r="getHumidity",q="getTempreture",p=A.aK(a,s,t.w).w,o=A.dq(s,A.kK(B.fA,B.ek,s),B.H,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a0S(this),s,s,s,s,s,s),n=A.c0(s,20,s),m=A.dh("Environment Details",s,s,s,s,s,s,s),l=this.d,k=l==="client2",j=k?r:q
 k=k?q:r
-return A.bF(s,A.eX(A.a([o,n,m,new A.we(l,s),new A.ok("Humidity",l,j,"",!0,s),new A.ok("Tempreture",l,k,"",!0,s),new A.ok("Time",l,"getTrapTime","5000",!1,s),new A.yn(l,s),A.dh("Count Details",s,s,s,s,s,s,s),new A.kv("zonata",l,"Zonata",s),new A.kv("pinkbollworm",l,"Pink bollworm",s),new A.kv("cucurbitae",l,"Cucurbitae",s),new A.kv("dorsalis",l,"Dorsalis",s),new A.kv("fallarmyworm",l,"Fall armyworm",s)],t.p),B.W,B.aO,B.a_),B.l,s,s,s,s,s,s,p.a.a*0.93)}}
+return A.bF(s,A.eX(A.a([o,n,m,new A.we(l,s),new A.ok("Humidity",l,j,"",!0,s),new A.ok("Tempreture",l,k,"",!0,s),new A.ok("Last DHT",l,"getTrapTime","5000",!1,s),new A.yn(l,s),A.dh("Count Details",s,s,s,s,s,s,s),new A.kv("zonata",l,"Zonata (fruitfly)",s),new A.kv("dorsalis",l,"Dorsalis (fruitfly)",s),new A.kv("cucurbitae",l,"Cucurbitae (fruitfly)",s),new A.kv("pinkbollworm",l,"Pink bollworm",s),new A.kv("fallarmyworm",l,"Fall armyworm",s)],t.p),B.W,B.aO,B.a_),B.l,s,s,s,s,s,s,p.a.a*0.93)}}
 A.a0S.prototype={
 $0(){return this.a.c.$0()},
 $S:0}
